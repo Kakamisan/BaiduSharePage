@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7E2F0F50-D60D-4526-BF6E-CC201B35E54B}"
 	ProjectSection(SolutionItems) = preProject
 		source\Main.js = source\Main.js
+		readme.txt = readme.txt
 	EndProjectSection
 EndProject
 Global
